@@ -1,8 +1,4 @@
 html,
-body {
-  height: 100%;
-  width: 100%;
-}
 
 html {
   background-color: #F0FBEF;
@@ -31,14 +27,28 @@ main {
   display: flex;
   justify-content: center;
   size: 400px;
+  border:none;
+  padding: 5px;
+  margin-bottom: 5px;
 }
 
 h2 {
   color: #9CC398;
   text-align: center;
   font-size: 40px;
+
 }
 
 .gana {
   font-weight: bold;
 }
+.linhas{
+  text-align: right;
+  margin-top: 650px;
+
+}
+
+td{
+color: #9CC398;
+font-size: 27px;
+  }

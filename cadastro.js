@@ -30,7 +30,7 @@ function Cadastro() {
     return false;
 
 }alert("Cadastro criado com sucesso!");
-location.href = "home.html"
+location.href = "homeusuario.html"
   form.reset();
   return true;
 
